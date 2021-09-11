@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashim Rudra Paul</h1>
 <h3 align="center">A Passionate Frontend And Python Developer.</h3>
 
+(https://arturssmirnovs.github.io/github-profile-readme-generator/banner.png)
+
 - 🌱 I’m currently learning **Angular.js and Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codewithashim](https://github.com/codewithashim)
