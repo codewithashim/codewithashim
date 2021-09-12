@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashim Rudra Paul</h1>
 <h3 align="center">A Passionate Frontend And Python Developer.</h3>
-(https://raw.githubusercontent.com/codewithashim/codewithashim/main/banner.png)
 
 - 🌱 I’m currently learning **Angular.js and Vue.js**
 
