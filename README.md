@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashim Rudra Paul</h1>
+![I am a Junior Front-end developer. ](https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png)
+
+## :mailbox: Reach me out
+
 <h3 align="center">A Passionate Frontend And Python Developer.</h3>
 
 - 🌱 I’m currently learning **Angular.js and Vue.js**
