@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashim Rudra Paul</h1>
-![I am a Junior Front-end developer. ](https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png)
+<img align="center" src="https://github.com/codewithashim/codewithashim/blob/main/img/gitBanner.png" alt="codewithashim" />
 
 ## :mailbox: Reach me out
 
