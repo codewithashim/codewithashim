@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/codewithashim/codewithashim/blob/main/img/gitBanner.png" alt="codewithashim" />
 
-<h3 align="center">A Passionate Frontend And Python Developer.</h3>
+<h3 align="center">I'm A Passionate Frontend And Python Developer.</h3>
 
 ## :mailbox: Reach me out
 
