@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ashim Rudra Paul</h1>
 <img align="center" src="https://github.com/codewithashim/codewithashim/blob/main/img/gitBanner.png" alt="codewithashim" />
 
-## :mailbox: Reach me out
-
 <h3 align="center">A Passionate Frontend And Python Developer.</h3>
+
+## :mailbox: Reach me out
 
 - 🌱 I’m currently learning **Angular.js and Vue.js**
 
