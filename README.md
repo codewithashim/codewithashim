@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/codewithashim/codewithashim/blob/main/img/gitBanner.png" alt="codewithashim" />
 
 <h3 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+I'm+Ashim+Rudra+Paul+%3C%2F%3E)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+I'm+Ashim+Rudra+Paul+%3C%2F%3E" alt="Typing SVG" /></a>
 </h3>
 
 ## :mailbox: Reach me out
