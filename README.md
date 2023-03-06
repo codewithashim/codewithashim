@@ -101,4 +101,4 @@
 
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=codewithashim&show_icons=true&locale=en" alt="codewithashim" /></p>
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithashim&show_icons=true&locale=en&layout=compact" alt="codewithashim" /></p>
+<p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithashim&show_icons=true&locale=en&layout=compact" alt="codewithashim" /></p>
