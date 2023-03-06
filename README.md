@@ -93,8 +93,10 @@
 
 <br/>
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithashim&show_icons=true&locale=en&layout=compact" alt="codewithashim" /></p>
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithashim&show_icons=true&locale=en&layout=compact" alt="codewithashim" /></p>
 
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=codewithashim&show_icons=true&locale=en" alt="codewithashim" /></p>
+<br/>
+
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=codewithashim&show_icons=true&locale=en" alt="codewithashim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithashim&" alt="codewithashim" /></p>
