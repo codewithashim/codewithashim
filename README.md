@@ -28,34 +28,15 @@
 
 <br/>
 <br/>
-<p center >
-
-<code>
-    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/HTML.png" height="30" width="40"/>
-</code>
-
-<code>
-    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/css.png" height="30" width="40"/>
- </code>
-<code> 
-    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/JavaScript.png" height="30" width="40"/>
-</code>
-<code> 
-    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/react.png" height="30" width="40"/>
-</code>
-<code> 
+<p align="center">
+    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/HTML.png"/>
+    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/css.png"/>
+    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/JavaScript.png"/>
+    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/react.png"/>
     <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/tailwind.png"/>
-</code>
-<code> 
-    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/Bootsrap.png" height="30" width="40"/>
-</code>
-<code> 
-    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/node.png" height="30" width="40"/>
-</code>
-<code> 
-    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/express.png" height="30" width="40"/>
-</code>
-
+    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/Bootsrap.png"/>
+    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/node.png"/>
+    <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/express.png"/>
 </p>
 
 #
