@@ -28,6 +28,8 @@
 
 <br/>
 <br/>
+<p center >
+
 <code>
     <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/HTML.png"/>
 </code>
@@ -53,6 +55,8 @@
 <code> 
     <img src="https://github.com/codewithashim/codewithashim/blob/main/img/icons/express.png"/>
 </code>
+
+</p>
 
 #
 
