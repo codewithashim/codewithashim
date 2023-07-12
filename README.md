@@ -91,14 +91,3 @@
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
-<br/>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithashim&" alt="codewithashim" /></p>
-
-<br/>
-
-<br/>
-
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=codewithashim&show_icons=true&locale=en" alt="codewithashim" /></p>
-
-<p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithashim&show_icons=true&locale=en&layout=compact" alt="codewithashim" /></p>
