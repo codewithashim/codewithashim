@@ -6,7 +6,7 @@
 
 ## :mailbox: Reach me out
 
-- 🌱 I’m currently learning **Angular.js and Vue.js**
+- 🌱 I’m currently learning **Postgres, Flask, Python, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codewithashim](https://github.com/codewithashim)
 
