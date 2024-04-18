@@ -63,7 +63,7 @@ Hey i'm experienced **Full Stack Developer** with a strong background in **JavaS
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,py,flask,fastapi,express,nestjs,prisma" />
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,py,flask,fastapi,express,nestjs,prisma,supabase" />
   </a>
 </p>
 
