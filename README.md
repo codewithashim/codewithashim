@@ -79,7 +79,7 @@ Hey i'm experienced **Full Stack Developer** with a strong background in **JavaS
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,strapi" />
+    <img src="https://skillicons.dev/icons?i=wordpress,strapi.io" />
   </a>
 </p>
 
