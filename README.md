@@ -75,6 +75,14 @@ Hey i'm experienced **Full Stack Developer** with a strong background in **JavaS
   </a>
 </p>
 
+- CMS
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,strapi" />
+  </a>
+</p>
+
 - Database
 
 <p align="left">
@@ -87,7 +95,7 @@ Hey i'm experienced **Full Stack Developer** with a strong background in **JavaS
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare" />
   </a>
 </p>
 
