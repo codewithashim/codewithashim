@@ -52,21 +52,25 @@ Shipping production SaaS, AI platforms, and automation for 4+ years. Full-stack 
 - n8n, Make, Zapier, GHL, Postman, CI/CD
 - Design/Collab: Figma, VS Code, JetBrains
 
-## Featured Products
+## Featured Products :
 
-### <img src="./assets/logo/fancy-font.png" alt="Fancy Font Studio" height="28" align="center"/> [Fancy Font Studio](https://fancyfontstudio.vercel.app/)
+<img src="./assets/logo/fancy-font.png" alt="Fancy Font Studio" width="180"/>
+
+### [Fancy Font Studio](https://fancyfontstudio.vercel.app/)
 
 Modern web app for stylish text in **Bangla & English** · 100+ fonts · Live preview · PNG export
 
-[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Featured-DA552F?style=for-the-badge&logo=producthunt)](https://www.producthunt.com/products/fancy-font) [![Live](https://img.shields.io/badge/Live-fancyfontstudio.vercel.app-667eea?style=for-the-badge&logo=vercel)](https://fancyfontstudio.vercel.app/)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Featured-DA552F?style=for-the-badge&logo=producthunt)](https://www.producthunt.com/products/fancy-font) [![Live](https://img.shields.io/badge/Live-fancyfontstudio-667eea?style=for-the-badge&logo=vercel)](https://fancyfontstudio.vercel.app/)
 
 ---
 
-### <img src="./assets/logo/syloti.png" alt="Syloti" height="28" align="center"/> [Syloti](https://dev-syloti.vercel.app/)
+<img src="./assets/logo/syloti.png" alt="Syloti" width="180"/>
+
+### [Syloti](https://dev-syloti.vercel.app/)
 
 AI-powered **Sylheti language learning** · Interactive lessons · Nagri script · Translation assistant · Tourism guide
 
-[![Live](https://img.shields.io/badge/Live-dev--syloti.vercel.app-667eea?style=for-the-badge&logo=vercel)](https://dev-syloti.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-syloti-667eea?style=for-the-badge&logo=vercel)](https://dev-syloti.vercel.app/)
 
 ## Connect
 
