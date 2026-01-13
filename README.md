@@ -5,14 +5,14 @@
 </p>
 
 <h1 align="center">Ashim Rudra Paul</h1>
-<p align="center"><strong>Software Engineer · GenAI & Cloud · Automation & Full-stack</strong></p>
+<p align="center"><strong>Software Engineer | Gen AI Engineer & Cloud Architect</strong></p>
 
 <p align="center">
-  <a href="https://github.com/codewithashim"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/codewithashim"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/codewithashim"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@codewithashim-1DA1F2?style=for-the-badge&logo=twitter"></a>
-  <a href="https://www.producthunt.com/@codewithashim"><img alt="Product Hunt" src="https://img.shields.io/badge/Product%20Hunt-Follow-DA552F?style=for-the-badge&logo=producthunt"></a>
-  <a href="mailto:codewithashim@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-codewithashim%40gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/codewithashim"><img alt="GitHub followers" src="https://img.shields.io/github/followers/codewithashim?label=Followers&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/codewithashim"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/codewithashim"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.producthunt.com/@codewithashim"><img alt="Product Hunt" src="https://img.shields.io/badge/Product%20Hunt-Follow-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"></a>
+  <a href="mailto:codewithashim@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ## About
