@@ -1,138 +1,71 @@
-<img align="center" src="https://github.com/codewithashim/codewithashim/blob/main/img/Screenshot%20from%202024-04-18%2022-35-21.png" alt="codewithashim" />
-
-<h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+I'm+Ashim+Rudra+Paul+%3C%2F%3E" alt="Typing SVG" /></a>
-</h3>
-
-## About Me
-
-Hey i'm experienced **Full Stack Developer** with a strong background in **JavaScript, Typescript, MongoDB, Express.js, React.js, Next.js and Node.js**. I'm passion for building scalable and efficient web applications, and is committed to staying up-to-date with the latest trends and technologies in the industry.I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
-
-<p align="center"> 
- <!--<img src="https://komarev.com/ghpvc/?username=codewithashim&label=Profile%20views&color=0e75b6&style=flat" alt="codewithashim" /> -->
-<img alt="Profile followers" src="https://img.shields.io/github/followers/codewithashim"> 
+<p align="center">
+  <picture>
+    <img src="./assets/ashim-hero-banner.jpeg" alt="Ashim Rudra Paul" />
+  </picture>
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<h1 align="center">Ashim Rudra Paul</h1>
+<p align="center"><strong>Software Engineer · GenAI & Cloud · Automation & Full-stack</strong></p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-## 📫 Reach me out
-
-- 🌱 I’m currently learning **Nust.js**
-- 👨‍💻 All of my projects are available at [https://github.com/codewithashim](https://github.com/codewithashim)
-- 💬 Ask me about **Full Stack Development**
-- 📫 How to reach me **codewithashim@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.hackerrank.com/profile/codewithashim" target="blank"><img align="center" src="./WEBP/hr.webp" alt="codewithashim" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/codewithashim" target="blank"><img align="center" src="./WEBP/cf.webp" alt="codewithashim" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/codewithashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithashim" height="30" width="40" /></a>
-    <a href="https://codepen.io/codewithashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codewithashim" height="30" width="40" /></a>
-  <a href="https://twitter.com/codewithashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithashim" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/codewithashim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codewithashim" height="30" width="40" /></a>
-  <a href="https://fb.com/codewithashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codewithashim" height="30" width="40" /></a>
-  <a href="https://instagram.com/codewithashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithashim" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/codewithashim"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/codewithashim"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/codewithashim"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@codewithashim-1DA1F2?style=for-the-badge&logo=twitter"></a>
+  <a href="https://www.producthunt.com/@codewithashim"><img alt="Product Hunt" src="https://img.shields.io/badge/Product%20Hunt-Follow-DA552F?style=for-the-badge&logo=producthunt"></a>
+  <a href="mailto:codewithashim@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-codewithashim%40gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## About
 
-- Core Programming
+Shipping production SaaS, AI platforms, and automation for 4+ years. Full-stack by trade, GenAI by focus, and cloud/devops by necessity—building reliable systems end-to-end with an eye on speed, safety, and cost. Currently Working AI platforms, fintech (banking/payments), POS, and hospitality products.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,javascript" />
-  </a>
+## At a Glance
+
+- ⭐ **Highlights:** `SaaS/AI` (4+ yrs) · `Full-stack` (React/Next/Angular · Node/Nest/Fastify/FastAPI) · `GenAI` (agents/RAG/tools/embeddings) · `Automation` (n8n/Make/Zapier/GHL) · `Data/Search` (Postgres/Mongo/Redis/ES).
+- 🚀 **Impact:** `Multi-AI platform` (routing/failover) · `Automation pipelines` reclaiming hours · `High-perf APIs/search` at scale (dashboards/marketplaces/EMRs/realtime).
+- 🎯 **Current Focus:** `AI-agnostic infra` · `Multi-LLM evals/safety/cost-perf` · `Faster shipping` (Next.js + AI playbooks) · `Fintech/POS/Hospitality` builds.
+
+## Toolbox
+
+**Core**
+
+<p align="left"><img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c" alt="core stack" /></p>
+
+**Frontend**
+
+<p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,materialui" alt="frontend stack" /></p>
+
+**Backend & APIs**
+
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,fastify,graphql,prisma,supabase" alt="backend stack" /></p>
+
+**Data & Search**
+
+<p align="left"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,elasticsearch" alt="data stack" /></p>
+
+**Cloud & DevOps**
+
+<p align="left"><img src="https://skillicons.dev/icons?i=aws,docker,linux,github,git,cloudflare" alt="cloud stack" /></p>
+
+**Automation & Tooling**
+
+- n8n, Make, Zapier, GHL, Postman, CI/CD
+- Design/Collab: Figma, VS Code, JetBrains
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/codewithashim"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-codewithashim-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:codewithashim@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-codewithashim%40gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/codewithashim"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/codewithashim"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@codewithashim-1DA1F2?style=for-the-badge&logo=twitter"></a>
+  <a href="https://www.hackerrank.com/profile/codewithashim"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-codewithashim-2EC866?style=for-the-badge&logo=hackerrank"></a>
 </p>
 
-- Backend
+---
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,py,flask,fastapi,express,nestjs,prisma,supabase" />
-  </a>
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithashim&bg_color=ffffff&color=333333&line=667eea&point=667eea&area=true&hide_border=true" alt="Contribution Graph" width="100%">
 </p>
-
-- Frontend
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
-
-- CMS
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,strapi" />
-  </a>
-</p>
-
-- Database
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare" />
-  </a>
-</p>
-
-- Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
-  </a>
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h4 align="center">
-
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/           </> Codewithashim            @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>
-
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
