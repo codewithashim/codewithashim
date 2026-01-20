@@ -65,11 +65,25 @@ Shipping production SaaS, AI platforms, and automation for 4+ years. Full-stack 
 
 ## Featured Products
 
+<img src="./assets/logo/oneicons.svg" alt="OneIcons" width="180"/>
+
+### [OneIcons](https://oneicons.vercel.app/)
+
+OneIcons is a state-of-the-art, responsive web application designed for seamless icon discovery, management, and integration. Built with the latest web technologies, it offers a premium user experience with fluid animations, robust search capabilities, and a sleek, modern interface.
+
+<a href="https://www.producthunt.com/products/oneicons?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-oneicons" target="_blank" rel="noopener noreferrer"><img alt="OneIcons - Icons without friction | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1065262&theme=light&t=1768866925725"></a>
+
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Featured-DA552F?style=for-the-badge&logo=producthunt)](https://www.producthunt.com/products/oneicons) [![Live](https://img.shields.io/badge/Live-oneicons-667eea?style=for-the-badge&logo=vercel)](https://oneicons.vercel.app/)
+
+---
+
 <img src="./assets/logo/fancy-font.png" alt="Fancy Font Studio" width="180"/>
 
 ### [Fancy Font Studio](https://fancyfontstudio.vercel.app/)
 
 Modern web app for stylish text in **Bangla & English** · 100+ fonts · Live preview · PNG export
+
+<a href="https://www.producthunt.com/products/fancy-font?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-fancy-font" target="_blank" rel="noopener noreferrer"><img alt="Fancy Font - Turn normal text into aesthetic fancy fonts | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1057843&theme=light&t=1768867172290"></a>
 
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Featured-DA552F?style=for-the-badge&logo=producthunt)](https://www.producthunt.com/products/fancy-font) [![Live](https://img.shields.io/badge/Live-fancyfontstudio-667eea?style=for-the-badge&logo=vercel)](https://fancyfontstudio.vercel.app/)
 
